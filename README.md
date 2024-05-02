@@ -1,6 +1,6 @@
 ```
-Name: Thiyagarajan A
-Register Number: 212222240110
+Name: Vasanth P
+Register Number: 212222240113
 ```
 # EXPERIMENT 05 INTERFACING A 4X4 MATRIX KEYPAD AND DISPLAY THE OUTPUT ON LCD
 
